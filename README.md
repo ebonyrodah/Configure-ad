@@ -23,8 +23,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Prerequisites</h2>
 
-### **1. Operating systems**
-    
+### **1. Virtual Machines**
+- **Windows Server 2022** After installation and configuration of the Active Directory Domain Services we will promote the server to a 
+    Domain Controll
+- **Windows 10** This will be our Client computer, we will use this to establish a connection with the server and 
 - Step 2
 - Step 3
 - Step 4
