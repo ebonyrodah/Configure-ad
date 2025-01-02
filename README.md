@@ -148,7 +148,7 @@ Below are some of the steps that were used to setup Active directory domain serv
 <br />
 
 <p>
-<img src="https://imgur.com/a/iJAvfXD" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GiU8vPR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
